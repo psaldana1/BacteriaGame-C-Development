@@ -1,5 +1,5 @@
 // include sfml graphics
-#include <SFML/Graphics.hpp>
+#include <SFML/Ggiyraphics.hpp>
 
 // define namespace for current app
 using namespace sf;
